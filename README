@@ -1,0 +1,18 @@
+I use this scrypt to backup my stupid Apple Iphone
+on my Linux Box, using ssh + rsync.
+
+I had to jailbreak my Iphone, because Apple doesn't
+allow you to manage as you want _YOUR_ device. There's
+always a Microsoft on the market. Today it's the Apple
+turn.
+
+Anyway, the script is really easy. Jailbreak your Iphone
+and install openssh and rsync. After that, just edit the
+script and change your variables.
+
+Customization is easy, because this script is stupid.
+
+Thanks to WuBook labs at:
+  http://wubook.net/
+  http://en.wubook.net/
+
